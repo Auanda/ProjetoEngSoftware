@@ -1,0 +1,10 @@
+{
+  "description": "Protótipo visual de um sistema que apresenta sua interface e fluxos para facilitar a avaliação da experiência do usuário.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
